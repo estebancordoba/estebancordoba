@@ -11,7 +11,6 @@ I'm a software developer specialized in JavaScript, React, React Native, and Nod
 - 🔭 Currently working on projects using **React**, **Next.js**, **React Native**, and **Node.js**.
 - 🌱 Currently learning more about **AI tools for development**.
 - 💬 Ask me about fullstack development, design patterns, CI/CD, and automation.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/francoecp/)
 - ⚡ Fun fact: I also grow avocados 🥑 in southern Colombia.
 
 ---
